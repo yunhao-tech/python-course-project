@@ -10,4 +10,5 @@ List:
     * DM2: Mettre en oeuvre un test asymptotique sur les coefficients de regression.
     * DM3: Classification par la methode des k plus proches voisins
 
-
+* MAP432 Markov & martingale
+    * projet: L'algorithme du recuit simulé, pour résoudre des problèmes d'optimisation non convexe. On s'intéresse ici à une application au problème du voyageur de commerce.
