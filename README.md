@@ -8,7 +8,25 @@ List:
     * EN3: Transformation de stabilisation de la variance
     * DM1: La variable a expliquer est la concentration en ozone noté O3 et les variables explicatives sont la temperature noté T12, le vent noté Vx et la nébulosité noté Ne12.
     * DM2: Mettre en oeuvre un test asymptotique sur les coefficients de regression.
-    * DM3: Classification par la methode des k plus proches voisins
+    * DM3: Classification par la methode **des k plus proches voisins**.
+
 
 * MAP432 Markov & martingale
-    * projet: L'algorithme du recuit simulé, pour résoudre des problèmes d'optimisation non convexe. On s'intéresse ici à une application au problème du voyageur de commerce.
+    * projet: L'algorithme du **recuit simulé**, pour résoudre des problèmes d'optimisation non convexe. On s'intéresse ici à une application au problème du voyageur de commerce.
+
+
+* MAP435 optimisation 
+    * optimisation **sans contrainte**: 
+         * Algorithme de gradient à pas fixe
+         * Algorithme du gradient pas optimal (le cas de fonction quadratic)
+         * Algorithme de Nesterov (fonctions convexes)
+         * Algorithme de Nesterov (fonctions fortement convexes)
+         * Algorithme du gradient conjugué
+         * Algorithme de Newton
+         * Analyse de vitesse de convergence et comparer les algos
+         * Quelques contre-exemples
+    * optimisation **avec contraintes**: différents algorithmes d'optimisation sous contraintes dans un cas simple (minimisation d'une fonction quadratique sous contraintes affines)
+         * Algorithme du gradient projeté
+         * Algorithme d'Uzawa
+         * Méthode de pénalisation
+         * Algorithme du Lagrangien augmenté
