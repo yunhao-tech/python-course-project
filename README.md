@@ -2,6 +2,10 @@
 The homework in form of Jupyter notebook
 
 List:
+* MAP556 Monte Carlo Methods:
+    * Challenge 1: simulate E(f(G)), f is reasonably regular, G is a 5-dimensional gaussian vector with I5 the covariance matrix. Attention: The number to call function f is limited to 400. 
+
+
 * MAP433 statistiques in Ecole polytechnique: 
     * EN1: Estimation parametrique. Loi de Poisson pour modéliser le nombre de buts marqués par une équipe de football.
     * EN2: Test de Cramer-von Mises
