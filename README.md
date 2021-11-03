@@ -5,6 +5,15 @@ List:
 * MAP556 Monte Carlo Methods:
     * Challenge 1: simulate E(f(G)), f is reasonably regular, G is a 5-dimensional gaussian vector with I5 the covariance matrix. Attention: The number to call function f is limited to 400. 
 
+* MAP553 Machine learning:
+    * TP1: The aim of this TP is to implement several optimization algorithms for linear regression and logistic regression models, with ridge penalization. The list of algorithms implemented:
+        * gradient descent (GD)
+        * accelerated gradient descent (AGD)
+        * coordinate gradient descent (CGD)
+        * stochastic gradient descent (SGD)
+        * stochastic average gradient descent (SAG)
+        * stochastic variance reduced gradient descent (SVRG) 
+
 
 * MAP433 statistiques in Ecole polytechnique: 
     * EN1: Estimation parametrique. Loi de Poisson pour modéliser le nombre de buts marqués par une équipe de football.
