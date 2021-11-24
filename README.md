@@ -3,6 +3,16 @@ The homework in form of Jupyter notebook
 
 List:
 * MAP556 Monte Carlo Methods:
+    * TP1: Simulation of random variables + Law of large numbers + Central limit theorem
+    * TP2: Serveral methods of variance reduction
+         * control variates
+         * antithetic sampling
+         * stratification
+    * TP3: Variance reduction through importance sampling
+    * TP5: Using Empirical Regression to approximate conditional expectation (in a context of finance)
+    * TP6: Generative Adversarial Network (GAN)
+    * TP8: Simulate processes of Brownian motion (eg. process of Ornstein-Uhlenbeck) and their Euler scheme 
+    * TP9: Multi-level Monte-Carlo method (MLMC)
     * Challenge 1: simulate E(f(G)), f is reasonably regular, G is a 5-dimensional gaussian vector with I5 the covariance matrix. Attention: The number to call function f is limited to 400. 
 
 * MAP553 Machine learning:
