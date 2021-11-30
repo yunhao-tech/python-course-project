@@ -14,6 +14,12 @@ List:
     * TP8: Simulate processes of Brownian motion (eg. process of Ornstein-Uhlenbeck) and their Euler scheme 
     * TP9: Multi-level Monte-Carlo method (MLMC)
     * Challenge 1: simulate E(f(G)), f is reasonably regular, G is a 5-dimensional gaussian vector with I5 the covariance matrix. Attention: The number to call function f is limited to 400. 
+    * Challenge 2: To play Angry Bird! Try to give a control on velocity to the bird facing a random wind. The law of wind follows Brownian motion. We can find more details in 
+         - AngryBirds_Env.ipynb provides an environment based on this problem. We can generate the random wind and train a deep learning model.
+         - ventETU.csv provides an example of wind format
+         - savedModel is a trained model which takes time and position as input and outputs the control we should take.
+         - control_etudiant.py and mon_control.py aim to provide the framework (write the result to file...)
+         - Rapport.pdf is a resume of our ideas and methods. 
 
 * MAP553 Machine learning:
     * TP1: The aim of this TP is to implement several optimization algorithms for linear regression and logistic regression models, with ridge penalization. The list of algorithms implemented:
