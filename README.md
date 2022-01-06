@@ -29,6 +29,7 @@ List:
         * stochastic gradient descent (SGD)
         * stochastic average gradient descent (SAG)
         * stochastic variance reduced gradient descent (SVRG) 
+   * Project: This project is based on a classic dataset of tree cover type classification. Auto machine learning is used to automatically choose model and fine tune hyperparameters. The accuracy can arrive at 0.869, a second position in Kaggle competition. The details are in report. 
 
 
 * MAP433 statistiques in Ecole polytechnique: 
