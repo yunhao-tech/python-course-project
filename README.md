@@ -31,8 +31,10 @@ List:
         * stochastic variance reduced gradient descent (SVRG) 
    * Project: This project is based on a classic dataset of tree cover type classification. Auto machine learning is used to automatically choose model and fine tune hyperparameters. The accuracy can arrive at 0.869, a second position in Kaggle competition. The details are in report. 
 
+* INF580 Large scale mathematical optimization:
+   * Project: combine random projection and linear programming. Retrieve solutions from projected problem and dual projected problem, compute primal solution. Compare their feasibility error and compute time.
 
-* MAP433 statistiques in Ecole polytechnique: 
+* MAP433 statistiques: 
     * EN1: Estimation parametrique. Loi de Poisson pour modéliser le nombre de buts marqués par une équipe de football.
     * EN2: Test de Cramer-von Mises
     * EN3: Transformation de stabilisation de la variance
@@ -40,9 +42,8 @@ List:
     * DM2: Mettre en oeuvre un test asymptotique sur les coefficients de regression.
     * DM3: Classification par la methode **des k plus proches voisins**.
 
-
 * MAP432 Markov & martingale
-    * projet: L'algorithme du **recuit simulé**, pour résoudre des problèmes d'optimisation non convexe. On s'intéresse ici à une application au problème du voyageur de commerce.
+    * Projet: L'algorithme du **recuit simulé**, pour résoudre des problèmes d'optimisation non convexe. On s'intéresse ici à une application au problème du voyageur de commerce.
 
 
 * MAP435 optimisation 
